@@ -2,6 +2,8 @@ Decide which business to order from
 Call the business
 Order the pizza large pepperoni sausage peppers
 Pay for the pizza
+A Pizza order came wrong, call back and request correct pizza
+A wait for new pizza to come
 Eat the pizza
 Stash the leftovers
 Toss the box
